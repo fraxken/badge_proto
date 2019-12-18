@@ -1,0 +1,24 @@
+{
+  "name": "badge_proto",
+  "version": "1.0.0",
+  "description": "WIP badge prototype with Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraxken/badge_proto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fraxken/badge_proto/issues"
+  },
+  "homepage": "https://github.com/fraxken/badge_proto#readme"
+}
